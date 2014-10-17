@@ -4,7 +4,7 @@ Find-your-way-back-home
 You printed directions from your home to a new mall across the town, but forgot to print the directions to get back home. 
 You need to find your way back home with what you have.
 
-A simple program which gives you the route to get back home.
+**A simple program which gives you the route to get back home.**
 
 Sample Input - 1
 4
