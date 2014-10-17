@@ -5,7 +5,7 @@ You printed directions from your home to a new mall across the town, but forgot 
 You need to find your way back home with what you have.
 
 *A simple program which gives you the route to get back home.*
-```
+
 **Sample Input 1:**
 4
 1. Begin on Road W
@@ -19,7 +19,6 @@ You need to find your way back home with what you have.
 3. Left on Road X
 4. Left on Road W
 
-```
 **Sample Input 2:**
 6
 1. Begin on Old Madras Road
